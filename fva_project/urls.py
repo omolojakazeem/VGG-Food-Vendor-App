@@ -11,8 +11,11 @@ schema_view = get_schema_view(
     openapi.Info(
         title="VGG Food Vendor API ",
         default_version='v1',
-        description="Developed by Kazeem Omoloja - Python Track",
-        terms_of_service="https://www.google.com/policies/terms/",
+        description="Developed by Kazeem Omoloja - Python Track."
+                    " <p></p>"
+                    "<p></p>",
+        terms_of_service="<p>admin user:omolojakazeem@gmail.com</p>"
+                         "<p>password: Oluteofute1.</p>",
         contact=openapi.Contact(email="contact@snippets.local"),
         license=openapi.License(name="BSD License"),
     ),
