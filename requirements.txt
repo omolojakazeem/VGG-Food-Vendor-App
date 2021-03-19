@@ -10,7 +10,7 @@ django-heroku==0.3.1
 django-phone-field==1.8.0
 django-rest-auth==0.9.5
 django-rest-swagger==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-yasg==1.17.1
 generics==0.0.1.dev0
